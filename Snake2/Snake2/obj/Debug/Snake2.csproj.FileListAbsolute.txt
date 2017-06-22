@@ -1,6 +1,0 @@
-C:\toCsharpTutorials\Snake2\Snake2\bin\Debug\Snake2.exe.config
-C:\toCsharpTutorials\Snake2\Snake2\bin\Debug\Snake2.exe
-C:\toCsharpTutorials\Snake2\Snake2\bin\Debug\Snake2.pdb
-C:\toCsharpTutorials\Snake2\Snake2\obj\Debug\Snake2.csprojResolveAssemblyReference.cache
-C:\toCsharpTutorials\Snake2\Snake2\obj\Debug\Snake2.exe
-C:\toCsharpTutorials\Snake2\Snake2\obj\Debug\Snake2.pdb
